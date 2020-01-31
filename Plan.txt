@@ -1,0 +1,39 @@
+1.What are you building?
+    I am building web applicatin a student managment system.
+
+2.Why?
+    I am building this project to help students, teachers and parents manage their school activity.
+    /*/ Teachers
+        can login or sign up
+        can add marks
+        can delete marks, HW
+        can get in the classes teacher learns the students
+        can add HomeWorks
+        can add Projects
+        can chat with parents
+
+    /*/ Students
+        can login or sign up
+        can see their assessment marks
+        can see HomeWorks
+        can see Projects
+
+    /*/ Parents
+        can login or signup
+        can see their children raport progress
+        can chat with teacher
+
+3.How?
+    Forms
+    MenuBar
+    DataBase
+    etc...
+
+4.Who for?
+    I am making this project for students, teachers and parents of an selected school.7
+
+5.Who with?
+    By Myself
+
+6.Challanges
+     CHAT APP
